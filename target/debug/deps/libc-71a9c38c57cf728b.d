@@ -1,0 +1,11 @@
+E:\Users\workspace\rust\snake\target\debug\deps\libc-71a9c38c57cf728b.rmeta: C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\lib.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\macros.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\fixed_width_ints.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\windows\mod.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\windows\msvc\mod.rs
+
+E:\Users\workspace\rust\snake\target\debug\deps\liblibc-71a9c38c57cf728b.rlib: C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\lib.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\macros.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\fixed_width_ints.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\windows\mod.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\windows\msvc\mod.rs
+
+E:\Users\workspace\rust\snake\target\debug\deps\libc-71a9c38c57cf728b.d: C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\lib.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\macros.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\fixed_width_ints.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\windows\mod.rs C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\windows\msvc\mod.rs
+
+C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\lib.rs:
+C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\macros.rs:
+C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\fixed_width_ints.rs:
+C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\windows\mod.rs:
+C:\Users\b.Le\ Grin\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.115\src\windows\msvc\mod.rs:
