@@ -177,7 +177,11 @@ fn main() {
         }
 
         if snake_eat_snake(&tail,hit) == true {
-            println!("perdu");
+            hit = 0;
+            tail = [SnakeHead::init();1600];
+            tmp  = [SnakeHead::init();1600];
+            tail[0] = SnakeHead::new(400,400,0,1);
+            apple = Apple::reset();
         }
 
         for i in 0 .. hit {
